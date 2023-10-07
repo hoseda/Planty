@@ -2,9 +2,9 @@
 online shop for plants
 
 
-# This is screenShots of application User Interface 
+# This is screenShots of application User Interface :
 
-# On Boarding pages
+  # On Boarding pages
 ![1](https://github.com/hoseda/Planty/assets/65117441/0a52d574-ba36-4605-9c81-58e0f1108f93)
 ![2](https://github.com/hoseda/Planty/assets/65117441/54cdf31a-dc59-4e4f-8663-0e1888969252)
 ![3](https://github.com/hoseda/Planty/assets/65117441/e2343825-d20e-4e7b-9b67-aa27efb83701)
